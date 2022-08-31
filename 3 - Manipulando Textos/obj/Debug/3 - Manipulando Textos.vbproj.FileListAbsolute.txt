@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.AssemblyReference.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\_3___Manipulando_Textos.Frm_Principal03.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\_3___Manipulando_Textos.Resources.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.GenerateResource.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.exe.config
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.pdb
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.pdb
