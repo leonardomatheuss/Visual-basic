@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\bin\Debug\1 - Primeiro projeto.exe.config
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\bin\Debug\1 - Primeiro projeto.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\bin\Debug\1 - Primeiro projeto.pdb
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\bin\Debug\1 - Primeiro projeto.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.vbproj.AssemblyReference.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\_1___Primeiro_projeto.Resources.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.vbproj.GenerateResource.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.vbproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\1 - Primeiro projeto.pdb
+C:\Users\leona\source\repos\1 - Primeiro projeto\1 - Primeiro projeto\obj\Debug\_1___Primeiro_projeto.Frm_TelaPrincipal.resources
