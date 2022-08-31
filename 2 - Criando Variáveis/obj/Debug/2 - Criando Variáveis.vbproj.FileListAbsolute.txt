@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.exe.config
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.pdb
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.AssemblyReference.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\_2___Criando_Variáveis.Form1.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\_2___Criando_Variáveis.Resources.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.GenerateResource.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.pdb
