@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.AssemblyReference.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Frm_Principal_05.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Resources.resources
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.GenerateResource.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe.config
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.pdb
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.exe
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.xml
+C:\Users\leona\source\repos\1 - Primeiro projeto\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.pdb
